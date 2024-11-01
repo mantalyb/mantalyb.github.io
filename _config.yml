@@ -7,10 +7,10 @@ baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://mantalyb.github.io
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+city: Nairobi
+state: KEN
+zip_code: 00100
+country: Kenya
 phone: (716) 555-5555
 
 # homepage tiles
